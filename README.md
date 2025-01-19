@@ -1,2 +1,2 @@
 # ATM
-Repository for Applied Text Mining group 8
+Repository for Applied Text Mining group 1
